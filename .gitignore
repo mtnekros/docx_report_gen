@@ -1,0 +1,13 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+
+# Custom files
+generated_report.docx
+python-docx.pdf
+todolist.md
+*.docx#

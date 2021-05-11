@@ -1,0 +1,12 @@
+certifi==2020.12.5
+chardet==4.0.0
+future==0.18.2
+highchartexport==0.0.4
+idna==2.10
+Jinja2==2.11.3
+lxml==4.6.3
+MarkupSafe==1.1.1
+Pillow==8.2.0
+python-docx==0.8.10
+requests==2.25.1
+urllib3==1.26.4
